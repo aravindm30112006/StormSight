@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay"
+}
